@@ -165,7 +165,7 @@ h1 {
 }
 
 .round:active {
-    border: 2px solid #68E0CF;
+    border: 1px solid #68E0CF;
     transition: 0.5s all;
 }
 
